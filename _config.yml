@@ -58,7 +58,8 @@ site_root:
 # check _layouts folder
 #
 markdown: kramdown
-remote_theme: drassil/git-wiki
+remote_theme: Drassil/git-wiki-skeleton
+
 highlighter: rouge
 kramdown:
   input: GFM
